@@ -1,3 +1,4 @@
 DS 2024
-  - Entering data world
-  - Entering adult world
+- Entering data world
+- Entering adult world
+- VERY FIRST BABY STEP
